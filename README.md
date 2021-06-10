@@ -3,9 +3,17 @@ My SSG and RSG Macro codes to use it with: https://github.com/jan-leila/FastRese
 
 (you need to have AHK: https://www.autohotkey.com/)
 
+## ***reported bugs are apriciated!*** 
 
-Self Promos:
 
-[Twitch](https://www.twitch.tv/penguen482_)
+ 
+ 
+ 
+ 
+ 
+ # Self Promos
 
-[Youtube](https://www.youtube.com/channel/UC2YxB9TYOD1R123lcKK3WFw)
+
+ - ###  [Twitch](https://www.twitch.tv/penguen482_)
+
+ - ###  [Youtube](https://www.youtube.com/channel/UC2YxB9TYOD1R123lcKK3WFw)
