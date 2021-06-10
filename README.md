@@ -3,7 +3,8 @@ My SSG and RSG Macro codes to use it with the [Fast Reset Mod](https://github.co
 
 (you need to have [AHK](https://www.autohotkey.com/))
 
-## ***reported bugs are apriciated!*** 
+## **Reported bugs are apriciated!
+### **You can discuss here or tag me on discord Penguen482#6780**
 
 
  
