@@ -22,7 +22,7 @@
 
 
 # **Bug reports are appreciated!**
- **You can message me on discord Penguen482#6780 for reports**
+ **You can message me on discord Penguen482#6780 or from my discord server for reports**
 
 
  
@@ -37,4 +37,5 @@
 
  - ###  [Youtube](https://www.youtube.com/channel/UC2YxB9TYOD1R123lcKK3WFw)
  
+ - ###  [Discord](https://discord.gg/UrwCv25dfX)
  
