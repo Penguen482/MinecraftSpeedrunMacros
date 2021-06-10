@@ -10,7 +10,7 @@
 
 2: Copy the entire code.
 
-3: Dowload [AHK](https://www.autohotkey.com/) and [Fast Reset Minecraft Mod](https://github.com/jan-leila/FastReset/releases/tag/1.3.3) (but the mod in you mods folder)
+3: Dowload [AHK](https://www.autohotkey.com/) and [Fast Reset Minecraft Mod](https://github.com/jan-leila/FastReset/releases/tag/1.3.3) (put the mod in you mods folder)
 
 4: Open a new txt file and paste the code.
 
