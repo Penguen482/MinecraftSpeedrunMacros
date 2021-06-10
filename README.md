@@ -21,7 +21,7 @@
 7: Open the file
 
 
-# **Bug reports are apriciated!**
+# **Bug reports are appreciated!**
  **You can message me on discord Penguen482#6780 for reports**
 
 
