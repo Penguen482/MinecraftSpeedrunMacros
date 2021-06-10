@@ -1,6 +1,6 @@
 ;
 ; Minecraft Reset Script v1.1
-; Author:   onvo
+; Author:   Penguen482
 ;
 
 ; Script Function:
