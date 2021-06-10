@@ -30,7 +30,7 @@
  
  
  
- # Self Promos
+ # Self Promos:
 
 
  - ###  [Twitch](https://www.twitch.tv/penguen482_)
