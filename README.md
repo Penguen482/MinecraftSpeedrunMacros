@@ -3,7 +3,7 @@ Requirements:
 - [Auto Hotkey](https://www.autohotkey.com/)
 - [Fast Reset Minecraft Mod](https://github.com/jan-leila/FastReset/releases/tag/1.3.3)
 
-## **Reported bugs are apriciated!**
+### **Reported bugs are apriciated!**
 #### **You can tag me on discord Penguen482#6780**
 
 
