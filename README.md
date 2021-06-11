@@ -37,5 +37,5 @@
 
  - ###  [Youtube](https://www.youtube.com/channel/UC2YxB9TYOD1R123lcKK3WFw)
  
- - ###  [Discord](https://discord.gg/UrwCv25dfX)
+ - ###  [Discord Server](https://discord.gg/UrwCv25dfX)
  
