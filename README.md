@@ -8,7 +8,7 @@
 
 1: Click on the macro that you want to use.
 
-2: Copy the entire code.
+2: Copy the entire code or dowload it as a zip file by pressing the green "Code" button.
 
 3: Dowload [AHK](https://www.autohotkey.com/) and [Fast Reset Minecraft Mod](https://github.com/jan-leila/FastReset/releases/tag/1.3.3) (put the mod in you mods folder)
 
@@ -18,7 +18,7 @@
 
 6: Turn the txt file's format into .ahk
 
-7: Open the file
+7: Open the file and start using it!
 
 
 # **Bug reports are appreciated!**
