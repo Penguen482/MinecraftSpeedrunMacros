@@ -4,7 +4,6 @@
 ;
 
 
-
 #NoEnv
 SetWorkingDir %A_ScriptDir%
 
