@@ -1,7 +1,7 @@
 ;
 ; Minecraft Reset Script v1.1
 ; Author:   Penguen482
-;
+; this macro quickly deletes worlds in game with a single click, don't worry about it deleting all the worlds in your folder. Its a bit faster then manually removing them. Use this if you are too lazy to use file explorer to delete worlds.
 
 
 
