@@ -1,14 +1,8 @@
 ;
 ; Minecraft Reset Script v1.1
-; Author:   onvo
+; Author:   Penguen482
 ;
 
-; Script Function:
-;  The following only apply inside the Minecraft window:
-;   1) When on the title screen, the "Y" key will create a world on Easy
-;   2) After loading in the world, "Y" will exit the world and then auto create another world on Easy
-;   3) To just exit the world and not auto create world, press "U" on keyboard.
-;   4) To change the "Y" and "U", change the keys before the double colon "::" and reload the script
 
 
 #NoEnv
