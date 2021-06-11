@@ -22,7 +22,7 @@
 
 
 # **Bug reports are appreciated!**
- **You can message me on discord Penguen482#6780 or from my discord server for reports**
+ You can message me on discord Penguen482#6780 or from my discord server for reports.
 
 
  
