@@ -6,7 +6,7 @@
 
 # Instructions:
 
-1: Click on the macro that you want to use.
+1: Click on the macro that you want to use. (or just click this to install them https://github.com/Penguen482/MinecraftSpeedrunMacros/releases/tag/1.2 )
 
 2: Copy the entire code or dowload it as a zip file by pressing the green "Code" button.
 
